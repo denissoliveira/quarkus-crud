@@ -1,0 +1,23 @@
+{
+  "name": "quarkus-crud",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "quarkus-crud",
+  "main": "index.html",
+  "scripts": {
+    "release": "standard-version",
+    "test": "mvn -q test -P test"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "Java",
+    "Spring",
+    "SpringBoot",
+    "Test"
+  ],
+  "author": "Denis",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.3.0"
+  }
+}

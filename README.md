@@ -56,3 +56,18 @@ If you want to learn more about building native executables, please consult http
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+
+## Conventional Commits
+
+[Conventional Commits](https://www.conventionalcommits.org/)
+
+## ChangeLogs
+
+[standard-version](https://www.npmjs.com/package/standard-version)
+
+* Test `npm run release -- --dry-run`
+* `npm run release -- --release-as 0.0.1-SNAPSHOT --dry-run`
+
+## Versionamento
+
+[semver](https://semver.org/)
