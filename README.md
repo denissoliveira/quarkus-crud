@@ -57,6 +57,10 @@ Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
 
+## Tests
+
+Use [testContainers](https://www.testcontainers.org/) e [Database-rider](https://github.com/database-rider/database-rider)
+
 ## Conventional Commits
 
 [Conventional Commits](https://www.conventionalcommits.org/)
