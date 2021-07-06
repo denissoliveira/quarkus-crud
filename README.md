@@ -1,3 +1,14 @@
+![GitHub package version](https://img.shields.io/github/package-json/v/denissoliveira/quarkus-crud.svg)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/denissoliveira/quarkus-crud.svg)](https://github.com/denissoliveira/quarkus-crud/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/denissoliveira/quarkus-crud.svg)](https://github.com/denissoliveira/quarkus-crud/issues?q=is%3Aopen+is%3Aissue)
+![GitHub last commit](https://img.shields.io/github/last-commit/denissoliveira/quarkus-crud.svg)
+[![GitHub issue/pull request author](https://img.shields.io/github/issues/detail/u/denissoliveira/quarkus-crud/1.svg)](https://github.com/denissoliveira/quarkus-crud/pulls)
+![GitHub contributors](https://img.shields.io/github/contributors/denissoliveira/quarkus-crud.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/denissoliveira/quarkus-crud.svg)
+[![GitHub](https://img.shields.io/github/license/denissoliveira/quarkus-crud.svg)](https://github.com/denissoliveira/quarkus-crud)
+[![GitHub All Releases](https://img.shields.io/github/downloads/denissoliveira/quarkus-crud/total.svg)](https://github.com/denissoliveira/quarkus-crud/archive/master.zip)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
 # quarkus-crud Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
