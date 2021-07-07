@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/denissoliveira/quarkus-crud/compare/v1.0.0...v1.0.1) (2021-07-07)
+
+
+### Bug Fixes
+
+* Ajustado para java 11 para compilar nativo com graalvm ([94abdc4](https://github.com/denissoliveira/quarkus-crud/commit/94abdc4cefc8e5c80aa2481e7c62875d38e44c6a))
+
 ## 1.0.0 (2021-07-06)
 
 
