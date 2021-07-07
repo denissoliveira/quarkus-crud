@@ -47,6 +47,17 @@ If you want to learn more about building native executables, please consult http
 
 OBS.: PARA COMPILAR NATIVO COM GRAALVM, USAR JAVA 11.
 
+### Criando uma imagem
+
+```sh
+./mvnw package -Pnative
+docker build -f src/main/docker/Dockerfile.native-distroless -t quarkus/quarkus-crud .
+docker run -i --rm -p 8080:8080 quarkus/quarkus-crud
+```
+
+Use `--network host` para rodar local:
+`docker run --network host -i --rm -p 8080:8080 quarkus/quarkus-crud`
+
 ## Related Guides
 
 - RESTEasy JAX-RS ([guide](https://quarkus.io/guides/rest-json)): REST endpoint framework implementing JAX-RS and more
