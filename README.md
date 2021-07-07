@@ -45,6 +45,8 @@ You can then execute your native executable with: `./target/quarkus-crud-1.0.0-S
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.html.
 
+OBS.: PARA COMPILAR NATIVO COM GRAALVM, USAR JAVA 11.
+
 ## Related Guides
 
 - RESTEasy JAX-RS ([guide](https://quarkus.io/guides/rest-json)): REST endpoint framework implementing JAX-RS and more
